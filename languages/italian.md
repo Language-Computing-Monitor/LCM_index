@@ -16,3 +16,9 @@ Assigned to: Charles Redmon
 ### Speech recognition
 Assigned to: Charles Redmon  
 
+
+### Large language models
+- Minerva (Sapienza NLP) **[description needed]**
+- Fauno (Bacciu et al. 2023) **[description needed]**
+
+
