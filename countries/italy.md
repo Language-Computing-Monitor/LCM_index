@@ -9,6 +9,13 @@ Updated: 2024-06-07
 - Italian Association for Artificial Intelligence (AIxIA)
 - Italian Association for Speech Sciences (AISV)
 
+## Conferences
+- Italian Conference on Computational Linguistics (CLiC-it)
+- EVALITA
+  
+## Journals
+- Italian Journal of Computational Linguistics (IJCoL)
+
 ## Technologies
 
 ### Speech synthesis
@@ -31,6 +38,10 @@ Updated: 2024-06-07
 *Evaluation*
 - Semantically Unpredictable Sentences: Benoît et al. (1996)
 - General Voice Characteristics: Cuciniello et al. (2023)
+
+#### Commercial systems
+- Alexa (Amazon): Italian (no mention of variety)
+- Siri (Apple): Italian (no mention of variety)
 
 
 ## References
