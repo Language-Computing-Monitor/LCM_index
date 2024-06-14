@@ -47,6 +47,12 @@ Updated: 2024-06-07
 - Siri (Apple): Italian (no mention of variety)
 
 
+## Machine Translation
+
+- ...
+- 
+
+
 ## References
 
 Avesani, C. (1990, November). A contribution to the synthesis of Italian intonation. In *ICSLP, 90*(1), 834-836.
